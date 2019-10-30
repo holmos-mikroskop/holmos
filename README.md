@@ -4,15 +4,42 @@ In diesem Projekt wurde von 2016 bis 2019 in Kooperation von Schüler/innen, Leh
 
 Das Mikroskop ermöglicht 3D-Darstellungen von Objekten, die mit Hilfe des klassischen Lichtmikroskops weniger gut erforschbar sind. 
 
-
-## Technische Dokumentation 
-Auf den folgenden Seiten finden sich die technische Anleitungen sowie die Dateien für den 3D-Druck. 
-
-## Dokumentation des Projekverlaufs
-
-Der Verlauf des Projekts ist hier dokumentiert (in umgekehrt chronologischer Reihenfolge): [Projektdokumentation](https://freiburg-seminar.de/stichwort/holmos/)
-
 ## Kooperationspartner
 
 Das Projekt HolMOS wurde in Kooperation des [Freiburg-Seminars für Mathematik und Naturwissenschaften](https://freiburg-seminar.de/stichwort/holmos/) mit dem [Fraunhofer-Instituts für Physikalische Messtechnik IPM](https://www.ipm.fraunhofer.de) in Freiburg durchgeführt. 
+
+----
+
+##  Projektdokumentation und Status
+Die Projektdokumentation liegt in zwei Teilen vor: 
+
+### Erarbeitet von Schüler/innen
+
+**Umfassende** Darstellung der entwickelten Inhalte und des Codes mit **Anleitungen auf deutsch**. 
+
+
+**STATUS:** 
+* Die Dokumentation ist **abgeschlossen**, 
+* der Code und die Materialien werden **nicht mehr weiterentwickelt**. 
+
+
+**[Zur Schüler-Dokumentation](https://github.com/holmos-mikroskop/holmos/wiki)**
+
+
+### Erarbeitet von Forschern des Fraunhofer IPM
+
+**Knappe** Darstellung der entwickelten Inhalte und des Codes, **Anleitungen auf Englisch**.
+
+**STATUS:** 
+* Die Dokumentation ist noch **in Bearbeitung**, 
+* Code und Materialien **werden noch weiterentwickelt**. 
+
+**[Zur Forscher-Dokumentation](https://github.com/holmos-ipm)**
+
+----
+
+## Weitere Berichte zum Projekverlauf
+
+Pressemeldungen und Berichte zu Meilensteinen des Projekts sind hier dokumentiert (in umgekehrt chronologischer Reihenfolge): [Projektdokumentation](https://freiburg-seminar.de/stichwort/holmos/)
+
 
