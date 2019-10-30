@@ -11,7 +11,8 @@ Das Projekt HolMOS wurde in Kooperation des [Freiburg-Seminars für Mathematik u
 ----
 
 ##  Projektdokumentation und Status
-Die Projektdokumentation liegt in zwei Teilen vor: 
+
+Für die Projektdokumentation gibt es zwei parallele Strukturen: 
 
 ### (1) Erarbeitet von Schüler/innen
 
