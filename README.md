@@ -23,7 +23,7 @@ Für die Projektdokumentation gibt es zwei parallele Strukturen:
 
 ### (1) Erarbeitet von Schüler/innen
 
-**Umfassende** Darstellung der entwickelten Inhalte und des Codes mit **Anleitungen auf deutsch**. 
+**Umfassende** Darstellung der entwickelten Inhalte und des Codes mit **Anleitungen auf Deutsch**. 
 
 
 > **STATUS:** 
