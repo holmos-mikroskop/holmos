@@ -13,26 +13,26 @@ Das Projekt HolMOS wurde in Kooperation des [Freiburg-Seminars für Mathematik u
 ##  Projektdokumentation und Status
 Die Projektdokumentation liegt in zwei Teilen vor: 
 
-### Erarbeitet von Schüler/innen
+### (1) Erarbeitet von Schüler/innen
 
 **Umfassende** Darstellung der entwickelten Inhalte und des Codes mit **Anleitungen auf deutsch**. 
 
 
-**STATUS:** 
-* Die Dokumentation ist **abgeschlossen**, 
-* der Code und die Materialien werden **nicht mehr weiterentwickelt**. 
+> **STATUS:** 
+> * Die Dokumentation ist **abgeschlossen**, 
+> * der Code und die Materialien werden **nicht mehr weiterentwickelt**. 
 
 
 **[Zur Schüler-Dokumentation](https://github.com/holmos-mikroskop/holmos/wiki)**
 
 
-### Erarbeitet von Forschern des Fraunhofer IPM
+### (2) Erarbeitet von Forschern des Fraunhofer IPM
 
 **Knappe** Darstellung der entwickelten Inhalte und des Codes, **Anleitungen auf Englisch**.
 
-**STATUS:** 
-* Die Dokumentation ist noch **in Bearbeitung**, 
-* Code und Materialien **werden noch weiterentwickelt**. 
+> **STATUS:** 
+> * Die Dokumentation ist noch **in Bearbeitung**, 
+> * Code und Materialien **werden noch weiterentwickelt**. 
 
 **[Zur Forscher-Dokumentation](https://github.com/holmos-ipm)**
 
