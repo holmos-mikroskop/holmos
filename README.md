@@ -10,7 +10,7 @@ Das Mikroskop ermöglicht 3D-Darstellungen von Objekten, die mit Hilfe des klass
 
 Das Projekt HolMOS wurde in Kooperation des 
 * [Freiburg-Seminars für Mathematik und Naturwissenschaften](https://freiburg-seminar.de/stichwort/holmos/) mit dem     
-* [Fraunhofer-Instituts für Physikalische Messtechnik IPM](https://www.ipm.fraunhofer.de) in Freiburg durchgeführt. 
+* [Fraunhofer-Institut für Physikalische Messtechnik IPM](https://www.ipm.fraunhofer.de) in Freiburg durchgeführt. 
     
 Gefördert durch das [BMBF](https://www.bmbf.de/).
 
