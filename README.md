@@ -1,6 +1,6 @@
 # Digital-holographisches Mikroskop for OpenScience (HolMOS)
 
-In diesem Projekt wurde von 2016 bis 2019 in Kooperation von Schüler/innen, Lehrer/innen und Forschern des Fraunhofer-Instituts für Physikalische Messtechnik IPM ein **digital-holographisches Mikroskop entwickelt**, das für Schulen, andere Bildungseinrichtungen und alle Interessierten erschwinglich ist. Die Komponenten sind entweder günstig zu kaufen oder per 3D-Druck herstellbar und können selbst mit Hilfe von Anleitungen zusammen gebaut werden. 
+In diesem Projekt wurde von 2016 bis 2019 in Kooperation von Schüler/innen, Lehrern und Mitarbeitern des Fraunhofer-Instituts für Physikalische Messtechnik IPM ein **digital-holographisches Mikroskop entwickelt**, das für Schulen, andere Bildungseinrichtungen und alle Interessierten erschwinglich ist. Die Komponenten sind entweder günstig zu kaufen oder per 3D-Druck herstellbar und können selbst mit Hilfe von Anleitungen zusammen gebaut werden. 
 
 Das Mikroskop ermöglicht 3D-Darstellungen von Objekten, die mit Hilfe des klassischen Lichtmikroskops weniger gut erforschbar sind. 
 
@@ -34,7 +34,7 @@ Für die Projektdokumentation gibt es zwei parallele Strukturen:
 **[Zur Schüler-Dokumentation](https://github.com/holmos-mikroskop/holmos/wiki)**
 
 
-### (2) Erarbeitet von Forschern des Fraunhofer IPM
+### (2) Erarbeitet von Mitarbeitern des Fraunhofer IPM
 
 **Knappe** Darstellung der entwickelten Inhalte und des Codes, **Anleitungen auf Englisch**.
 
@@ -42,7 +42,7 @@ Für die Projektdokumentation gibt es zwei parallele Strukturen:
 > * Die Dokumentation ist noch **in Bearbeitung**, 
 > * Code und Materialien **werden noch weiterentwickelt**. 
 
-**[Zur Forscher-Dokumentation](https://github.com/holmos-ipm)**
+**[Zur Fraunhofer-Dokumentation](https://github.com/holmos-ipm)**
 
 ----
 
